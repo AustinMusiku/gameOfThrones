@@ -1,4 +1,4 @@
-# heroes-and-villains
+# gameOfThrones
 
 ## Project setup
 ```
