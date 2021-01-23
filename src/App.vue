@@ -2,17 +2,18 @@
   <div class="hero">
   </div>
   <Characters/>
+  <Footer/>
 </template>
 
 <script>
 import Characters from './components/Characters'
-import Character from './components/Character'
+import Footer from './components/Footer'
 
 export default {
   name: 'App',
   components: {
     Characters,
-    Characters
+    Footer
   }
 }
 </script>
